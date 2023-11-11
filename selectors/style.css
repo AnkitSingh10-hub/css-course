@@ -1,0 +1,24 @@
+.para {
+    color: blue;
+}
+
+.hero-section {
+    color: fuchsia;
+}
+
+/* hover is a pseudoclass */
+#btn:hover {
+    color: red;
+    font-size: x-large;
+    background-color: lime;
+}
+
+#btn {
+    color: white;
+    font-size: x-large;
+    background-color: blue;
+}
+
+h2 {
+    color: currentColor;
+}
