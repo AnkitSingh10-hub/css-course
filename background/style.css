@@ -1,0 +1,7 @@
+body{
+    background-color: antiquewhite;
+    background-image: url(beach.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}

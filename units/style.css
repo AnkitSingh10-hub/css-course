@@ -1,0 +1,14 @@
+/* h1{
+    font-size: 80px;
+}
+p{
+    font-size: 40px;
+} */
+
+.parent {
+    font-size: 1rem
+}
+
+html {
+    font-size: 40px;
+}
